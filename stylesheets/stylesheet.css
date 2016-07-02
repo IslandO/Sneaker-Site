@@ -210,8 +210,8 @@ figure {
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
-  height: 1em;
-  color:#0066ff;
+  height: .5em;
+  background-color:#0066ff;
 }
 
 /**
