@@ -133,6 +133,7 @@ dfn {
 h1 {
   font-size: 2em;
   margin: 0.67em 0;
+  color:#0066ff;
 }
 
 /**
@@ -209,7 +210,8 @@ figure {
 hr {
   -moz-box-sizing: content-box;
   box-sizing: content-box;
-  height: 0;
+  height: 1em;
+  color:#0066ff;
 }
 
 /**
