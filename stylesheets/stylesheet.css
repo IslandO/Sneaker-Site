@@ -447,13 +447,13 @@ a:hover {
   text-decoration: underline;
   color: #90D355;
 }
-
+/*adjusted title h1*/
 h1.title {
-  margin: 30px 20px 10px;
-  font-size: 60px;
+  margin: 30px 10px 10px;
+  font-size: 2em;
   font-weight: bold;
   font-style: italic;
-  font-family:Georgia, serif;
+  font-family:arial, san-serif;
   text-align: center;
 }
 
