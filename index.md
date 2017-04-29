@@ -1,4 +1,7 @@
-<!--The page should be index.html not index.md. this is why some of your coding is showing on your site. Also you need to turn your site into a website. See comments on renaming a file-->
+<!--The page should be index.html not index.md. this is why some of your coding is showing on your site. Also you need to turn your site into a website. See comments on renaming a file. After you rename file to index.html, you can create a webpage following these exact instructions:
+1. log into drastudio.github.io/url-generator/
+2. follow the instructions on the page
+3. in the gh-pages add the new web site name-->
 
 <!DOCTYPE html>
 <html>
