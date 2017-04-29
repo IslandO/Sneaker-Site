@@ -1,8 +1,10 @@
+<!--The page should be index.html not index.md. this is why some of your coding is showing on your site. Also you need to turn your site into a website.-->
 <!DOCTYPE html>
 <html>
 <head>
 	<title>Nike Air Jordan Chicago 1</title>
 </head>
+<!--I don't see a cascading stytle sheet associated with your page. this is why your images are so large and you don't have control over the placement of your content.--> 
 <body>
 
 <h1>Air Jordan 1 Chicago</h1>
@@ -11,9 +13,9 @@
 
 <h2>Air Jordan 1</h2>
 <p><img src=https://i.ytimg.com/vi/L68dinkqwX4/maxresdefault.jpg alt="Mountain View" style="width:700px;height:500px;">
-
+<!--Missing closing paragraph tag-->
 </body>
-
+<!--body tag applied to early, this tag closes before you end the page-->
 
 <h3>The History</h3>
 <p>Designed by Peter Moore, the Nike Air Jordan 1 released in Michael Jordan's rookie season in the NBA. The Jordan 1 released in many different colorways, the most popular being the Bred colorway and the Chicago colorway. And while the bred was love by many for its "banned theme" the Chicago was loved and defined by what Michael Jordan did with it on court. The most famous example would be dropping a historic 63 points in a playoff game against Larry Bird and the 80's Celtics.</p>
@@ -23,7 +25,7 @@ This particular colorway has only released 4 times since 1985 and has been known
 
 <h4>Pricing Chicago</h4>
 Retail and Resale
-
+<!--line 24, 27, 43, 46, 66, 69 just floating in the air. No tags. You are missing closing tags on your videos-->
 <h1>Air Jordan 1 Bred/Banned</h1>
 <p><a href="https://www.youtube.com/watch?v=TAtpQjcZux8">Check out this review</a>
 </p>
@@ -32,7 +34,7 @@ Retail and Resale
 <p><img src=http://sneakhunt.me/media/wysiwyg/Air_Jordan_1_Bred.jpg alt="Mountain View" style="width:700px;height:500px;">
 
 </body>
-
+<!-- Delete upper body tag-->
 
 <h3>The History</h3>
 <p>Designed by Peter Moore, the Nike Air Jordan 1 released in Michael Jordan's rookie season in the NBA. The Jordan 1 released in many different colorways, the bred/banned colorway is arguably the most popular.What many may not know is that the bred jordan 1 is not the shoe that was outlawed by the NBA the shoe that caused the restriction was the very similar bred Nike Air Ships. </p>
