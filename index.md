@@ -1,86 +1,72 @@
-
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Nike Air Jordan Chicago 1</title>
+</head>
 <body>
-<h1>My First Webpage</h1>
-<p>My first webpage created by Nick.</p>
-<p>This is a list of the standard functions assigned to each of the function keys in Microsoft Windows.[6]</p>
 
-<p>F1: Opens the help page of the working program.<br>
-F2: Renames a highlighted icon or file. Alt + Ctrl + F2 and Ctrl + F2 give some more functions.<br>
-F3: Search feature for many programs including web browsers.<br>
-F4: Repeats last action performed while typing in Microsoft Word. Alt + F4 key closes all active windows. Ctrl + F4 closes the frontmost window.<br>
-F5: Refreshes (updates) pages in web browsers and other applications.<br>
-F6: Moves cursor to writing web address at the address bar.<br>
-F7: Normally opens a “spell checker” but this key can be reassigned, depending on configurations and software.<br>
-F8: It can perform several functions, and does not have an assigned Windows default. However, when starting Windows 2000 or Windows XP, holding the F8 key will boot in Safe Mode.<br>
-F9: Opens the Measurements toolbar in Quark 5.0.<br>
-F10: Activates the menu bar in many programs. Shift + F10 + mouse can be used for an external function.<br>
-F11: Sets to full screen on most of the programs.<br>
-F12: In Microsoft Word, this key can be used for saving documents, and also opens up developer tools window in most of the browsers, and, on most of the newer computers that allow PXE Boot, this button allows users to boot from the network.</p>
+<h1>Air Jordan 1 Chicago</h1>
+<p><a href="https://www.youtube.com/watch?v=W_NbiIZAmRw">Check out this review</a>
+</p>
 
-<h4>CTRL commands in Windows</h4>
-<p>The Ctrl key keyboard shortcuts may perform a function in a browser and maybe another in a word processor. Let us have a look at some of the important one’s.</p>
-<ul>
-<li>Ctrl+A : Select All objects</li>
+<h2>Air Jordan 1</h2>
+<p><img src=https://i.ytimg.com/vi/L68dinkqwX4/maxresdefault.jpg alt="Mountain View" style="width:700px;height:500px;">
 
-<li>Ctrl+B : Bold highlighted text</li>
-
-<li>Ctrl+C : Copy selected objects</li>
-
-<li>Ctrl+D : Bookmark open web page</li>
-
-<li>Ctrl+E : Center text</li>
-
-<li>Ctrl+F : Open Find window</li>
+</body>
 
 
- 
-<li>Ctrl+G : Open Favorites sidebar in IE. Opens Find and Replace in Word</li>
+<h3>The History</h3>
+<p>Designed by Peter Moore, the Nike Air Jordan 1 released in Michael Jordan's rookie season in the NBA. The Jordan 1 released in many different colorways, the most popular being the Bred colorway and the Chicago colorway. And while the bred was love by many for its "banned theme" the Chicago was loved and defined by what Michael Jordan did with it on court. The most famous example would be dropping a historic 63 points in a playoff game against Larry Bird and the 80's Celtics.</p>
 
-<li>Ctrl+H : Open Find and Replace in Microsoft Word.</li>
+<h4>Chicago</h4>
+This particular colorway has only released 4 times since 1985 and has been known to have some of the best materials in each time of its release.
 
-<li>Ctrl+I : Make text Italics</li>
+<h4>Pricing Chicago</h4>
+Retail and Resale
 
-<li>Ctrl+J : Opens View downloads in IE browsers</li>
+<h1>Air Jordan 1 Bred/Banned</h1>
+<p><a href="https://www.youtube.com/watch?v=TAtpQjcZux8">Check out this review</a>
+</p>
 
-<li>Ctrl+K : Create hyperlink for selected text in Word</li>
+<h2>Air Jordan 1 Bred</h2>
+<p><img src=http://sneakhunt.me/media/wysiwyg/Air_Jordan_1_Bred.jpg alt="Mountain View" style="width:700px;height:500px;">
 
-<li>Ctrl+L : Select address in address bar in browser. Left align text in Word</li>
+</body>
 
-<li>Ctrl+M : Indent selected text in word processors</li>
 
-<li>Ctrl+N : Create New instance of the document or program</li>
+<h3>The History</h3>
+<p>Designed by Peter Moore, the Nike Air Jordan 1 released in Michael Jordan's rookie season in the NBA. The Jordan 1 released in many different colorways, the bred/banned colorway is arguably the most popular.What many may not know is that the bred jordan 1 is not the shoe that was outlawed by the NBA the shoe that caused the restriction was the very similar bred Nike Air Ships. </p>
 
-<li>Ctrl+O : Open a new file</li>
+<h4>Bred/Banned</h4>
+This particular colorway has only released over 6 times since 1985 and has been known to have some of the best materials in each time of its release.
 
-<li>Ctrl+P : Open print window</li>
+<h4>Pricing</h4>
+Retail and Resale
 
-<li>Ctrl+R : Reload page in browser. Right align text in Word</li>
 
-<li>Ctrl+S : Save document</li>
 
-<li>Ctrl+T : Create a new tab in IE</li>
 
-<li>Ctrl+U : Underline selected text</li>
 
-<li>Ctrl+V : Paste copied objects</li>
+<h1>Nike Foamposite</h1>
+<p><a href="https://www.youtube.com/watch?v=W_NbiIZAmRw">Check out this review</a>
+</p>
 
-<li>Ctrl+W : Close tab in IE or Word document</li>
+<h2>Nike Foamposite</h2>
+<p><img src=http://sneakerbardetroit.com/wp-content/uploads/2016/10/nike-foamposite-one-xx-dark-neon-royal-3.jpg alt="Mountain View" style="width:700px;height:500px;">
 
-<li>Ctrl+X : Cut selected object</li>
+</body>
 
-<li>Ctrl+Y : Redo the ‘Undo’ action.</li>
 
-<li>Ctrl+Z : Undo any action</li>
+<h3>The History</h3>
+<p>Designed by Eric Avar, the Nike Foamposite released in 1997 under Penny Hardaway's name even though it was first designed for Scottie Pippen</p>
 
-<li>Ctrl+Esc : Open Start Screen or Start Menu</li>
+<h4>Royal</h4>
+This particular colorway has only released 4 times since 1985 and has been known to have some of the best materials in each time of its release.
 
-<li>Ctrl+Tab : Switch to the next child window of a Multiple Document Interface (MDI) program</li>
+<h4>Pricing</h4>
+Retail and Resale
 
-<li>Ctrl+Shift+Esc    : Opens Task Manager in Windows 8</li>
 
-<li>Ctrl+WinKey+F  : Opens Find computer box</li>
-
-<li>Ctrl+Alt+Del       : Opens screen to Lock, Switch users, etc.</li>
 
 </body>
 </html>
