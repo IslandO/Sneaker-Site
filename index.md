@@ -1,4 +1,5 @@
-<!--The page should be index.html not index.md. this is why some of your coding is showing on your site. Also you need to turn your site into a website.-->
+<!--The page should be index.html not index.md. this is why some of your coding is showing on your site. Also you need to turn your site into a website. See comments on renaming a file-->
+
 <!DOCTYPE html>
 <html>
 <head>
